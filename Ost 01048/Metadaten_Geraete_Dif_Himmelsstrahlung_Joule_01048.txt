@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1048;Dresden-Klotzsche;13.75;51.13;227;1.8;20090703;20190813;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+1048;Dresden-Klotzsche;13.75;51.13;227.57;1.75;20190814;20211116;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+1048;Dresden-Klotzsche;13.75;51.13;227.57;1.75;20211117;20220703;Pyranometer CM21;Strahlungsmessung, elektr.;eor;
+1048;Dresden-Klotzsche;13.75;51.13;227.57;1.75;20250730;20250815;Pyranometer CM21;Strahlungsmessung, elektr.;eor;
+generiert: 16.08.2025 --  Deutscher Wetterdienst  --

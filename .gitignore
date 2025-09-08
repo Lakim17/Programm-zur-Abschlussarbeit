@@ -1,0 +1,11 @@
+# environment
+.venv
+
+# gurobi - Optimization Solver
+*.log 
+
+# saved Dataframes
+zz saved dataframes/ 
+
+# Spotmarktpreisdatei
+Spotmarktpreis \[2015-2024\].csv

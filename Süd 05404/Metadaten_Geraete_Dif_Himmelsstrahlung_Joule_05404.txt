@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5404;Weihenstephan;11.7;48.4;470;2;19970101;20040930;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5404;Weihenstephan;11.7;48.4;470;2;20080610;20081109;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5404;Weihenstephan-Dürnast;11.7;48.4;470;2;20081110;20081116;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;477.1;2;20120627;20210630;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;477.1;2;20210726;20210929;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;477.1;2.53;20210930;20211019;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+generiert: 16.08.2025 --  Deutscher Wetterdienst  --

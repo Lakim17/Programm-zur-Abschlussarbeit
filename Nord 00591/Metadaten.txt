@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+591;Boizenburg;10.69;53.39;44.72;18;19911101;20070829;WMG 201;Windmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;44.72;15;20070830;20090420;WMG 201;Windmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;44.72;15;20090421;20190422;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;44.72;15;20190426;20210426;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;44.72;15;20210427;20250621;Ultrasonic Anemometer 2D compact;Windmessung, elektr.;eor;
+generiert: 22.06.2025 --  Deutscher Wetterdienst  --
