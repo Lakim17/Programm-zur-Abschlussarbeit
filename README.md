@@ -1,10 +1,10 @@
 # Einleitung
 Dies ist ein Repository, welches für eine Abschlussarbeit zu dem Thema "Optimierung der Netzanschlusspunktauslastung von nachhaltigen Energieerzeugungsanlagen mit Schwerpunkt auf Kombination von Photovoltaik, Windkraft und Batteriespeicher" erstellt wurde. Die Bereitstellung des Repositorys erfolgt aus Gründen der Transparenz und Nachvollziehbarkeit. 
 
-# Beschreibung der Datein
+# Beschreibung der verwendeten Datein
 Die Ordner von Nord bis Zentrum enthalten zum einen die verwendete Datengrundlage der Wetterereignisse und zum anderen Metadaten für die Nachvollziehbarkeit der Messverfahren. Die Daten entstammen dem Deutschen Wetterdienst.
 
-Die CSV-Datei "Spotmarktpreis [2015-2024].csv" enthält den verwendeten Verlauf der Spotmarktpreise am Day-Aheadmartk gemäß Netztransparenz.de. 
+Die CSV-Datei "Spotmarktpreis [2015-2024].csv" enthält den verwendeten Verlauf der Spotmarktpreise am Day-Aheadmartk gemäß Netztransparenz.de. Diese muss bei Bedarf zur Anwendung über die unten stehende Quelle gedownloadet und wie beschrieben benannt werden. Alternativ kann in "model.ipynb" der einzulesende Name in Zelle 3 angepasst werden.
 
 Die Jupyter-Notebook-Datein "model.ipynb" umfasst den gesamten Code und selbsterstellten Abbildungen, die in der Abschlussarbeit verwendet wurden.
 
